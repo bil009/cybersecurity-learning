@@ -18,3 +18,19 @@
 Understand how the application processes input instead of memorizing payloads.
 
 **Status:** Completed 
+
+## Git Setup and Cybersecurity Learning
+
+- Reinstalled Git after formatting my laptop.
+- Cloned my existing cybersecurity-learning repository from GitHub.
+- Verified that my local main branch is synchronized with origin/main.
+- Learned the purpose of git status.
+- Current focus: strengthening web security fundamentals.
+
+### Git Workflow
+
+1. Edit files.
+2. Use git status to inspect changes.
+3. Use git add to stage changes.
+4. Use git commit to save a snapshot.
+5. Use git push to upload commits to GitHub.
